@@ -1,0 +1,1 @@
+(()=>{"use strict";const e=document.querySelector("#content"),t=(t,d,n="")=>{let c=document.createElement(`${t}`);c.classList.add(d),c.textContent=`${n}`,e.appendChild(c)};t("div","header","Home"),t("div","header","Menu"),t("div","header","Contact"),t("div","body")})();
